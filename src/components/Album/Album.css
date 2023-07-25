@@ -1,0 +1,12 @@
+
+
+.album-wrapper{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid black;
+    width: 100%;
+}
+
