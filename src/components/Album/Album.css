@@ -1,12 +1,16 @@
-
-
-.album-wrapper{
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 10px;
-    border: 1px solid black;
-    width: 100%;
+.album {
+  padding: 0 1.5rem;
 }
 
+.album-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.albumBtn {
+  margin: 10px 0;
+  border: 1px solid lightgray;
+}

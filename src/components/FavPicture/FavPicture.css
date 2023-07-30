@@ -1,0 +1,27 @@
+.favPic {
+  margin: 10px 0 15px;
+  width: 22%;
+  font-size: 12px;
+  /* border: 1px solid black; */
+}
+
+.favPic p {
+  text-align: center;
+  padding: 5px;
+  /* border: 1.5px solid lightgray; */
+  border-radius: 5px;
+  /* box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px; */
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+  margin-top: 5px;
+}
+
+.favImg {
+  width: 100%;
+}
+
+.favImg img {
+  width: 100%;
+  border-radius: 50%;
+}
